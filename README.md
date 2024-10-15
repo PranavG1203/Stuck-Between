@@ -1,12 +1,7 @@
-# Riddle Repository
 
-Welcome to the Riddle Repository!
+Oh Thee Open Source Adventurers!
 
-Your mission is to navigate through the branches and find the clues that will lead you to the final repository.
-
-## Instructions
-
-- Check out the branches and follow the clues.
-- Each branch contains hints that will help you find the link to the final repository.
-
-Good luck!
+_"Across the paths you roam, the way is split in four,
+Gather each piece you find, and join them to the core.
+Part by part, they’ll lead you to the final door,
+A hidden realm of levels, for those who seek more."_
