@@ -2,3 +2,5 @@
 Explore all the branches, and take your time.
 Each holds a secret, a part of the whole,
 Check each one carefully, to achieve your goal."
+
+If you dont see any braches you might want to try: "git branch -a"
